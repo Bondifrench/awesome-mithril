@@ -101,6 +101,7 @@ Mithril does not require specialized tools for testing, however the following ha
 - [mithril-materialized](https://erikvullings.github.io/mithril-materialized) - a component library for [materialize-css](https://materializecss.com)
 - [mithril-leaflet](https://erikvullings.github.io/mithril-leaflet) - a map component based on [Leaflet](http://leafletjs.com)
 - [mithril-portal](https://github.com/vrimar/mithril-portal) - a component for rendering inline children to `document.body`
+- [mithril-hooks](https://github.com/ArthurClemens/mithril-hooks) - Hook functions from the React Hooks API in Mithril by ArthurClemens
 
 ### Tools
 
